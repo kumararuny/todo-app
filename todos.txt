@@ -1,10 +1,9 @@
-clean
-throw
+bake
 play
-fix
-laude
-bhosdi
-nikal
-lemarle
+break
+clean
+accelerate
+study
+struggle
 Master Python!
 Expert Python!
