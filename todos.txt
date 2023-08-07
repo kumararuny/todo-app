@@ -6,3 +6,5 @@ laude
 bhosdi
 nikal
 lemarle
+Master Python!
+Expert Python!

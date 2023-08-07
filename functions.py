@@ -1,5 +1,5 @@
 
-FILENAME = 'paddu.txt'
+FILENAME = 'todos.txt'
 
 def get_todos():
     with open(FILENAME, 'r') as file_local:
