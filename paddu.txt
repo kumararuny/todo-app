@@ -1,0 +1,6 @@
+throw
+play
+fix
+laude
+nikal
+clean
