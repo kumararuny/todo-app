@@ -1,9 +1,9 @@
-bake
-play
-break
-clean
-accelerate
+dirty
+deaccelerate
+
 study
 struggle
 Master Python!
-Expert Python!
+lepu
+chopta
+hepu
